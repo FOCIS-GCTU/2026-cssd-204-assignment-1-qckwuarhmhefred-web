@@ -1,4 +1,4 @@
-# File: initials.py
+# File: FAG.py
 # Description: Prints stylized large block initials with surrounding formatting.
 # Assignment Number: 1
 #
